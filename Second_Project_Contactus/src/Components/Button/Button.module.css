@@ -1,0 +1,31 @@
+.top_btn {
+  padding: 18px 10px;
+  font-size: 20px;
+  color: white;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-width: 220px;
+  font-size: 16px;
+  justify-content: center;
+  cursor: pointer;
+  background-color: black;
+}
+
+.secondary_btn {
+  padding: 18px 10px;
+  border: 1px solid black;
+  color: black;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-width: 220px;
+  font-size: 16px;
+  justify-content: center;
+  background-color: white;
+  width: 100%;
+  cursor: pointer;
+  margin-top: 10px;
+}

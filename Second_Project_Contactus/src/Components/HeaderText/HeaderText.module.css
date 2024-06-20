@@ -1,0 +1,13 @@
+.content_section {
+  max-width: 1224px;
+  margin: 50px auto;
+}
+
+.content_section h1 {
+  font-size: 45px;
+  font-weight: bold;
+}
+
+.content_section p {
+  font-weight: 400;
+}
