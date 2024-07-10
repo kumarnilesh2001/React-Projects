@@ -1,13 +1,14 @@
 import styled from "styled-components";
 import Button from "../styled/Button.jsx";
 
-const StartPage = () => {
+// eslint-disable-next-line react/prop-types
+const StartPage = ({ toggle }) => {
   return (
     <MainPage>
       <img src="./images/dices.png" alt="image" />
       <div className="content">
         <h1>DICE GAME</h1>
-        <Button text="Play Now" />
+        <Button text="Play Now" onClick={toggle} />
       </div>
     </MainPage>
   );
