@@ -1,8 +1,8 @@
-# Contact us page using React
+# Prediction Dice Game
 
 ## Overview
 
-This project is a single-page application built with React, designed to showcase a Conatct us page. It is a simple and beginners project using state hook.
+Welcome to the Prediction Dice Game! This is a simple React-based game where players predict the outcome of dice rolls.
 
 ## Deployed Link:-[ [https://majestic-biscochitos-453347.netlify.app]](https://jocular-bonbon-1a31a1.netlify.app)](https://predictiondice.netlify.app/)
 
