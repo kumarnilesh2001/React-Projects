@@ -4,7 +4,7 @@
 
 Welcome to the Prediction Dice Game! This is a simple React-based game where players predict the outcome of dice rolls.
 
-## Deployed Link:-[ [https://majestic-biscochitos-453347.netlify.app]](https://jocular-bonbon-1a31a1.netlify.app)](https://predictiondice.netlify.app/)
+## Deployed Link:-[(https://predictiondice.netlify.app/)
 
 # Screenshot
 
