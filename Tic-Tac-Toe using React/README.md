@@ -19,5 +19,9 @@ This is a simple Tic-Tac-Toe game built using React. The game allows two players
 
 ##ScreenShots- 
 ![Screenshot 2024-08-15 235819](https://github.com/user-attachments/assets/edcbd66a-ea69-430d-b31e-27a5bf4a33db)
+
 ![Screenshot 2024-08-15 235954](https://github.com/user-attachments/assets/7a76ba60-4cb7-4d03-b2a0-b1254a5a4a4c)
+
+![Screenshot 2024-08-15 235901](https://github.com/user-attachments/assets/63386a42-0fd3-4ac0-beae-0c43bacdd840)
+
 ![Screenshot 2024-08-16 000009](https://github.com/user-attachments/assets/d344bb5e-28e5-42a1-a6b9-a0b194f86cca)
